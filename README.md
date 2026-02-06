@@ -10,4 +10,4 @@ When you clone this project, you might see a rearrangement of HTML elements on y
 
 The given image gives you an idea of how this clone looks on my laptop.
 
-![Alt text](https://example.com/link/to/image.png)
+![Alt text](https://github.com/CosmicRaushan/mintlify_clone_project/blob/fca922715884b1ebf3ce8290e3338779636564bc/screencapture-127-0-0-1-5500-mintlify-clone-project-src-mint-html-2026-02-06-20_35_18.png)
